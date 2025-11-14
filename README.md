@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio de Ramdane Mouffok | Géographie et Aménagement du Territoire</title>
+    <title>Portfolio de Ramdane Mouffok</title>
     <style>
         * {
             margin: 0;
@@ -229,17 +229,14 @@
     <div class="container">
         <header>
             <div class="header-content">
-                <p class="subtitle">Géographe | Aménageur du Territoire | Developpeur SIG</p>
+                <p class="subtitle">Aménageur du Territoire | SIG | IA | IT</p>
             
                 <div class="contact">
                     <div class="contact-item">
-                        <span>📧 mfkramdane@gmail.com</span>
+                        <span>📍Londes, Royaume-Uni</span>
                     </div>
                     <div class="contact-item">
-                        <span>📱 +33 7 58 95 86 88</span>
-                    </div>
-                    <div class="contact-item">
-                        <span>📍Île-de-France, France</span>
+                        <span>📍Paris, France</span>
                     </div>
                 </div>
             </div>
@@ -333,7 +330,7 @@
                 
                 <div class="card">
                     <h3>
-                        <span>Co-fondateur et associé, SAS MFPS</span>
+                        <span>Co-fondateur, SAS MFPS</span>
                     </h3>
                     <ul>
                         <li>Stratégie commerciale et marketing</li>
@@ -356,8 +353,7 @@
                 
                 <div class="card">
                     <h3>
-                        <span>Consultant dans un Bureau d'Études Technique</span>
-                    </h3>
+                        <span>Consultant BET Aménament du territoire</span>
                     <ul>
                         <li>Réalisation de cartes et plans de situation</li>
                         <li>Aide à l'amélioration des plans directeurs et schémas nationaux</li>
@@ -367,7 +363,7 @@
                 
                 <div class="card">
                     <h3>
-                        <span>Gérant, SARL SEA FOOD</span>
+                        <span>Gérant, SARL SEA</span>
                     </h3>
                     <ul>
                         <li>Gestion des stocks</li>
@@ -380,7 +376,7 @@
                 
                 <div class="card">
                     <h3>
-                        <span>Stage de terrain à Ghardaïa</span>
+                        <span>Latitude : 32.4894° N/ Longitude : 3.6735° E</span>
                     </h3>
                     <ul>
                         <li>Analyse des politiques urbaines</li>
@@ -390,7 +386,7 @@
                 
                 <div class="card">
                     <h3>
-                        <span>Stage de terrain à Bousaâda</span>
+                        <span>Latitude : 35.2080° N/ Longitude : 4.1737° E</span>
                     </h3>
                     <ul>
                         <li>Étude de la ville et ses plans d'aménagement</li>
@@ -400,7 +396,7 @@
                 
                 <div class="card">
                     <h3>
-                        <span>Stage de terrain à Djelfa</span>
+                        <span>Latitude : 34.6728° N/ Longitude : 3.2630° E</span>
                     </h3>
                     <ul>
                         <li>Étude de la ville et ses infrastructures</li>
