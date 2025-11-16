@@ -219,9 +219,10 @@
             background-color: #4dd0e1;
             border-radius: 4px;
         }
-    </style>
+   </style>
 </head>
 <body>
+   
     <div class="background-container">
         <div class="bg-map"></div>
     </div>
@@ -350,7 +351,6 @@
                         <li>Mise en place de nouvelles méthodes de travail</li>
                     </ul>
                 </div>
-                
                 <div class="card">
                     <h3>
                         <span>Consultant BET Aménament du territoire</span>
@@ -360,7 +360,6 @@
                         <li>Télétravail et prestations à distance</li>
                     </ul>
                 </div>
-                
                 <div class="card">
                     <h3>
                         <span>Gérant, SARL SEA</span>
@@ -370,10 +369,8 @@
                         <li>Ventes, achats et facturation</li>
                         <li>Poste à temps partiel en parallèle des études</li>
                     </ul>
-                </div>
-                
-                <h2>Stages et Projets de Terrain</h2>
-                
+                </div>    
+                <h2>Stages et Projets de Terrain</h2>  
                 <div class="card">
                     <h3>
                         <span>Latitude : 32.4894° N/ Longitude : 3.6735° E</span>
@@ -382,8 +379,7 @@
                         <li>Analyse des politiques urbaines</li>
                         <li>Analyse d'images satellites et de données climatiques avec SIG</li>
                     </ul>
-                </div>
-                
+                </div>  
                 <div class="card">
                     <h3>
                         <span>Latitude : 35.2080° N/ Longitude : 4.1737° E</span>
@@ -392,8 +388,7 @@
                         <li>Étude de la ville et ses plans d'aménagement</li>
                         <li>Étude des enjeux de la Steppe avec des SIG</li>
                     </ul>
-                </div>
-                
+                </div>        
                 <div class="card">
                     <h3>
                         <span>Latitude : 34.6728° N/ Longitude : 3.2630° E</span>
@@ -405,8 +400,7 @@
                     </ul>
                 </div>
             </section>
-        </div>
-        
+        </div> 
         <footer>
             <p>© 2025 Ramdane Mouffok | All rights reserved.</p>
         </footer>
