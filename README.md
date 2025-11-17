@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio de Ramdane Mouffok</title>
+    <title>Portfolio de Ramdane Mouffok | Géographie et Aménagement du Territoire</title>
     <style>
         * {
             margin: 0;
@@ -219,10 +220,9 @@
             background-color: #4dd0e1;
             border-radius: 4px;
         }
-   </style>
+    </style>
 </head>
 <body>
-   
     <div class="background-container">
         <div class="bg-map"></div>
     </div>
@@ -230,11 +230,15 @@
     <div class="container">
         <header>
             <div class="header-content">
-                <p class="subtitle">Aménageur du Territoire | SIG | IA | IT</p>
+                <h1>RAMDANE MOUFFOK</h1>
+                <p class="subtitle">Géograpie | Aménagement du Territoire | SIG | IT | IA</p>
             
                 <div class="contact">
                     <div class="contact-item">
-                        <span>📍Londes, Royaume-Uni</span>
+                        <span>📧 https://www.linkedin.com/in/mouffok/</span>
+                    </div>
+                    <div class="contact-item">
+                        <span>📍Londres, Royaume-Uni</span>
                     </div>
                     <div class="contact-item">
                         <span>📍Paris, France</span>
@@ -331,7 +335,7 @@
                 
                 <div class="card">
                     <h3>
-                        <span>Co-fondateur, SAS MFPS</span>
+                        <span>Co-fondateur et associé, SAS MFPS</span>
                     </h3>
                     <ul>
                         <li>Stratégie commerciale et marketing</li>
@@ -351,47 +355,54 @@
                         <li>Mise en place de nouvelles méthodes de travail</li>
                     </ul>
                 </div>
+                
                 <div class="card">
                     <h3>
-                        <span>Consultant BET Aménament du territoire</span>
+                        <span>Consultant dans un Bureau d'Études Technique</span>
+                    </h3>
                     <ul>
                         <li>Réalisation de cartes et plans de situation</li>
                         <li>Aide à l'amélioration des plans directeurs et schémas nationaux</li>
                         <li>Télétravail et prestations à distance</li>
                     </ul>
                 </div>
+                
                 <div class="card">
                     <h3>
-                        <span>Gérant, SARL SEA</span>
+                        <span>Gérant, SARL SEA FOOD</span>
                     </h3>
                     <ul>
                         <li>Gestion des stocks</li>
                         <li>Ventes, achats et facturation</li>
                         <li>Poste à temps partiel en parallèle des études</li>
                     </ul>
-                </div>    
-                <h2>Stages et Projets de Terrain</h2>  
+                </div>
+                
+                <h2>Stages et Projets de Terrain</h2>
+                
                 <div class="card">
                     <h3>
-                        <span>Latitude : 32.4894° N/ Longitude : 3.6735° E</span>
+                        <span>Stage de terrain à Ghardaïa</span>
                     </h3>
                     <ul>
                         <li>Analyse des politiques urbaines</li>
                         <li>Analyse d'images satellites et de données climatiques avec SIG</li>
                     </ul>
-                </div>  
+                </div>
+                
                 <div class="card">
                     <h3>
-                        <span>Latitude : 35.2080° N/ Longitude : 4.1737° E</span>
+                        <span>Stage de terrain à Bousaâda</span>
                     </h3>
                     <ul>
                         <li>Étude de la ville et ses plans d'aménagement</li>
                         <li>Étude des enjeux de la Steppe avec des SIG</li>
                     </ul>
-                </div>        
+                </div>
+                
                 <div class="card">
                     <h3>
-                        <span>Latitude : 34.6728° N/ Longitude : 3.2630° E</span>
+                        <span>Stage de terrain à Djelfa</span>
                     </h3>
                     <ul>
                         <li>Étude de la ville et ses infrastructures</li>
@@ -400,7 +411,8 @@
                     </ul>
                 </div>
             </section>
-        </div> 
+        </div>
+        
         <footer>
             <p>© 2025 Ramdane Mouffok | All rights reserved.</p>
         </footer>
